@@ -1,4 +1,4 @@
-
+Un petit rappel de l'épreuve
 # Objectif
 
 Pour viser une certification CESI de **niveau 7**, chaque candidat doit valider l’ensemble des blocs de compétences de la certification professionnelle visée et réussir une épreuve finale de grand oral. L'épreuve du grand oral s'appuie sur : 
@@ -16,7 +16,7 @@ Le positionnement attendu des candidats au grand oral est celui d’un manager o
 - S’assurer, à l’issue de la formation, que le candidat peut légitimement prétendre à l’exercice de missions opérationnelles et stratégiques dans la fonction visée,
 - Valider l’acquisition des connaissances et des compétences indispensables à la fonction,
 - Valider la posture de cadre ou futur cadre.
-Pour ce faire, les membres du jury s’attacheront, notamment, à évaluer les expériences acquises et les savoirfaire de même que la maîtrise des concepts fondamentaux et des compétences s’y rapportant. Une attention particulière sera portée aux capacités d’expression, d’écoute, d’argumentation, d’analyse et de synthèse du candidat et plus généralement à sa posture professionnelle.
+Pour ce faire, les membres du jury s’attacheront, notamment, à évaluer les expériences acquises et les savoir faire de même que la maîtrise des concepts fondamentaux et des compétences s’y rapportant. Une attention particulière sera portée aux capacités d’expression, d’écoute, d’argumentation, d’analyse et de synthèse du candidat et plus généralement à sa posture professionnelle.
 
 ## **Etapes du grand oral :**
 
