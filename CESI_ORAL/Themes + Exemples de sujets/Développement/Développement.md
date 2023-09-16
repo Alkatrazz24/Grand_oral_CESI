@@ -1,7 +1,11 @@
 # En quoi ce thème est intéressant ? 
 
+- **Intérêt**: 
+	Le développement logiciel est au cœur de la transformation numérique. Des techniques comme le DevOps et des pratiques comme les tests automatisés et l'architecture en microservices permettent aux entreprises de déployer rapidement des solutions robustes. Ce dynamisme est cependant contrebalancé par des questions de maintenabilité et de coût à long terme, qui doivent être soigneusement gérées.
 
-# Exemple de sujets avec plan
+- **Pertinence pour l'oral**: 
+	Les sujets comme l'automatisation des tests, la maintenabilité et le DevOps sont cruciaux pour comprendre les défis actuels dans le développement rapide et fiable de logiciels. Ils sont particulièrement pertinents pour un public intéressé par l'ingénierie logicielle ou le management de projets informatiques.
+# Exemple de sujets avec plan :
 ## [[Sujet 1  Apprentissage automatique et automatisation de tests de logiciels]]
 
 ### Rappel 

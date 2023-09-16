@@ -58,19 +58,23 @@ Le meilleur cheminement pour parvenir à une bonne problématique est :
 
 # Les Thèmes du Grand Oral + sujets possibles
 
-- ## [[SI et environnement]]
+- ## [[SI et environnement]] :
 	 - Comment prendre des décisions éthiques face au besoin de croissance et aux enjeux climatiques ?
 	 - Quelles méthodes pour une optimisation énergétique des datacenters ?
+
 - ## [[Sécurité]]
 	- Cybersécurité : Réglementation
 	- Comment gagner en efficacité grâce au social engineering ? ou, la place de l’homme dans les enjeux de  cybersécurité
+
 - ## [[Cloud et virtualisation]]
 	- Le Wifi a-t-il un avenir ?
 	- Du monolithe à l’architecture en microservices
+
 - ## [[Big Data]]
 	- Big data : fiabilité et validité des données ?
 	- Big data, surveillance et confiance
 	- Big data et RGPD
+
 - ## [[Développement]]
 	- Apprentissage automatique et automatisation de tests de logiciels
 	- Stratégie de maintenabilité logicielle et les couts associés ?

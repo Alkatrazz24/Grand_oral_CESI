@@ -1,7 +1,11 @@
 # En quoi ce thème est intéressant ? 
 
+- **Intérêt**: 
+	L'IA a le potentiel de transformer presque tous les aspects de notre vie. Des véhicules autonomes aux diagnostics médicaux, l'IA peut apporter des gains d'efficacité et d'exactitude significatifs. Néanmoins, des questions d'éthique, comme les biais algorithmiques et l'impact sur l'emploi, restent préoccupantes.
 
-# Exemple de sujets avec plan
+- **Pertinence pour l'oral**: 
+	Discuter des défis éthiques, comme les biais algorithmiques, ou des applications pratiques, comme la détection de fraudes, peut aider à montrer comment l'IA a un impact direct et souvent controversé sur nos vies.
+# Exemple de sujets avec plan :
 ## [[Sujet 1 L'intelligence artificielle peut-elle assurer la sécurité d'une infrastructure système et réseau de façon autonome]] ?
 
 ### Rappel

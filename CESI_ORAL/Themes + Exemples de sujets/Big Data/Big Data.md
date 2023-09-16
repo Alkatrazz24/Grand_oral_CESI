@@ -1,5 +1,11 @@
 # En quoi ce thème est intéressant ? 
 
+- **Intérêt**: 
+	Le Big Data peut être considéré comme le nouveau "pétrole" de l'ère numérique. Son exploitation permet aux entreprises d'extraire des informations précieuses pour prendre des décisions plus éclairées. Cela va des préférences d'achat des consommateurs à la détection de fraudes bancaires. De plus, le Big Data est essentiel pour des domaines comme la recherche médicale et la prévision météorologique. Cependant, la manipulation de grandes quantités de données soulève des questions sérieuses sur la vie privée et la sécurité.
+
+- **Pertinence pour l'oral**: 
+	Aborder les défis de la gouvernance des données, les enjeux éthiques, et la compatibilité avec des réglementations comme le RGPD permet de montrer comment le Big Data affecte presque tous les aspects de la vie moderne.
+
 
 # Exemple de sujets avec plan :
 

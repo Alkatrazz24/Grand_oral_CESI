@@ -1,6 +1,10 @@
 # En quoi ce thème est intéressant ? 
 
+- **Intérêt**: 
+	Le cloud computing permet aux entreprises d'accéder à des ressources informatiques presque illimitées à la demande, ce qui peut considérablement réduire les coûts et augmenter la flexibilité. La virtualisation, en permettant l'émulation de ressources matérielles, rend les systèmes plus efficaces et faciles à gérer. Toutefois, ces technologies posent des défis en termes de sécurité et de conformité, qui doivent être rigoureusement gérés.
 
+- **Pertinence pour l'oral**: 
+	Parler des défis de sécurité associés au cloud, ou comment la virtualisation facilite la gestion des ressources en entreprise. Cela donne un aperçu de la transformation numérique en cours dans le monde des affaires.
 # Exemple de sujets avec plan :
 ## [[Sujet 1 Le Wifi a-t-il un avenir ]] ? 
 

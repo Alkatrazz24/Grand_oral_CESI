@@ -1,6 +1,10 @@
 # En quoi ce thème est intéressant ? 
 
+- **Intérêt**: 
+	La blockchain a le potentiel de redéfinir les transactions, en éliminant le besoin d'intermédiaires dans de nombreux systèmes. Cela peut réduire la fraude, accélérer les processus, et apporter une transparence bienvenue. Mais son utilisation excessive en tant que registre public immuable peut créer des défis en matière de droits de l'homme et de vie privée.
 
+- **Pertinence pour l'oral**:
+	En discutant des implications légales, de l'impact environnemental ou même de l'application en matière de traçabilité lors de crises sanitaires, captiver votre auditoire en montrant les multiples facettes de cette technologie.
 # Exemple de sujets avec plan :
 ## [[Sujet 1 Le droit face aux technologies tel que la blockchain ]]?
 ###  Rappel
