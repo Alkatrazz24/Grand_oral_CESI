@@ -46,12 +46,12 @@
 ### Enjeux Technologiques 
 
 1. **Introduction**: La complexité technique associée à la gestion de grandes quantités de données est abordée.
-    
+
 2. **Défis**:
-    
     - Le cas d'une entreprise de fabrication qui a eu du mal à traiter et à nettoyer les données en temps réel provenant de ses machines industrielles.
     - L'exemple d'une ville ayant installé des capteurs IoT pour surveiller la qualité de l'air mais qui n'a pas réussi à filtrer et valider les données, causant de fausses alertes.
-1. **Conclusion (15 secondes)**: Le manquement dans la gestion technique des données a des implications économiques et éthiques significatives, ce n'est pas simplement une question d'ingénierie.
+
+3. **Conclusion (15 secondes)**: Le manquement dans la gestion technique des données a des implications économiques et éthiques significatives, ce n'est pas simplement une question d'ingénierie.
 
 ---
 ## 3. Analyse de l'Existant
@@ -63,7 +63,7 @@
     - **Validité**: Ce terme se rapporte à la justesse ou l'exactitude des données. Un ensemble de données est valide si les données qu'il contient sont une représentation précise de la réalité.
     - **Distinction**: Alors que la fiabilité est une condition nécessaire, elle n'est pas suffisante pour la validité. Une donnée peut être fiable sans être valide.
     
-1. **Data Cleaning**
+2. **Data Cleaning**
     - **Introduction**: L'importance du nettoyage des données dans la gestion des enjeux liés à la fiabilité et la validité.
     - **Méthodes**: Utilisation d'algorithmes pour éliminer les valeurs aberrantes, remplir les valeurs manquantes et normaliser les données.
     - **Outils**: Présentation de quelques outils populaires tels que OpenRefine, Trifacta, ou des librairies Python comme Pandas.
@@ -120,7 +120,7 @@
     - **Importance du Sujet**: Souligner une dernière fois pourquoi la fiabilité et la validité des données sont d'une importance cruciale, en particulier dans l'ère du Big Data où les volumes de données sont en croissance exponentielle.
     - **Conséquences**: Résumer brièvement les risques économiques, éthiques et technologiques de la négligence de la qualité des données. Cela peut aller de la prise de décisions commerciales erronées à la perte de la confiance du public envers les institutions.
 
-1. **Souligner la nécessité d'une approche proactive pour assurer la qualité des données**
+2. **Souligner la nécessité d'une approche proactive pour assurer la qualité des données**
     - **Proactivité vs Réactivité**: Mettre en évidence que la correction des erreurs de données après leur occurrence est souvent beaucoup plus coûteuse et risquée que la prévention.
     - **Appel à l'Action**: Encourager l'auditoire à adopter une approche proactive dans leur propre environnement professionnel. Suggérer de commencer par des étapes concrètes, telles que l'audit de l'état actuel de la qualité des données ou la mise en place d'un plan stratégique pour la gestion de la qualité des données.
 ## 6. Questions/Réponses
@@ -128,23 +128,22 @@
 ### Anticiper les questions possibles
 
 1. **Comment équilibrer le coût du nettoyage des données avec les avantages potentiels ?**
-    
     - **Préparation**: Être prêt à discuter des méthodes quantitatives et qualitatives pour évaluer le retour sur investissement (ROI) du nettoyage des données.
     - **Réponse Possible**: Expliquer que le coût initial de l'investissement dans le nettoyage des données peut être élevé, mais que les erreurs de données peuvent entraîner des coûts beaucoup plus élevés à long terme, notamment en termes de mauvaises décisions et de perte de confiance.
+
 2. **Quels sont les défis spécifiques au Big Data par rapport à la qualité des données ?**
-    
     - **Préparation**: Être capable de discuter des problèmes uniques posés par le volume, la variété et la vélocité du Big Data.
     - **Réponse Possible**: Mentionner que le Big Data apporte des défis supplémentaires en matière de gestion de la qualité des données, notamment en raison de la grande variété de sources de données et du volume en constante augmentation. Cela rend les techniques de nettoyage de données traditionnelles souvent inadéquates.
+
 3. **Quels outils recommandez-vous pour la gestion de la qualité des données ?**
-    
     - **Préparation**: Avoir une liste d'outils qui peuvent être utilisés pour différents aspects de la gestion de la qualité des données.
     - **Réponse Possible**: Suggérer des outils spécifiques pour le nettoyage des données, la validation, et le suivi de la qualité des données, en fonction des besoins spécifiques de l'auditoire.
+
 4. **Comment intégrer une culture de la qualité des données au sein d'une organisation ?**
-    
     - **Préparation**: Penser à des stratégies organisationnelles qui peuvent encourager une meilleure gestion des données.
     - **Réponse Possible**: Parler de l'importance de la formation et de l'engagement du leadership dans la promotion d'une culture axée sur la qualité des données.
+
 5. **Y a-t-il des normes industrielles pour la qualité des données ?**
-    
     - **Préparation**: Être au courant des normes ou des meilleures pratiques dans l'industrie spécifique à laquelle vous vous adressez.
     - **Réponse Possible**: Mentionner s'il existe des normes spécifiques à l'industrie, ou sinon, discuter des meilleures pratiques généralement acceptées pour la gestion de la qualité des données.
 
