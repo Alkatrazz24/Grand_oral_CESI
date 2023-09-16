@@ -23,25 +23,23 @@
 
 ### Enjeux Économiques 
 
-1. **Introduction (20 secondes)**: L'importance cruciale de la qualité des données est mise en lumière, indiquant que celle-ci a des implications économiques considérables pour les entreprises.
-    
+1. **Introduction **: L'importance cruciale de la qualité des données est mise en lumière, indiquant que celle-ci a des implications économiques considérables pour les entreprises.
+
 2. **Exemples concrets **:
-    
     - Une entreprise de vente en ligne ayant mal intégré les données de ses fournisseurs, aboutissant à des erreurs de stocks et finalement à des pertes de revenus et des clients mécontents.
     - Une compagnie aérienne qui, à cause d'une erreur dans les données météorologiques, a rerouté plusieurs vols, engendrant des coûts supplémentaires et des indemnisations.
-3. **Conclusion (20 secondes)**: Ignorer la fiabilité des données peut avoir un impact financier dévastateur sur les entreprises.
-    
+
+3. **Conclusion**: Ignorer la fiabilité des données peut avoir un impact financier dévastateur sur les entreprises.
 
 ### Enjeux Éthiques 
 
-1. **Introduction (20 secondes)**: Cette section est orientée vers les implications éthiques de la fiabilité et de la validité des données.
-    
+1. **Introduction **: Cette section est orientée vers les implications éthiques de la fiabilité et de la validité des données.
+
 2. **Responsabilité:**
-    
     - Un hôpital a mal géré les dossiers médicaux de ses patients, menant à des erreurs de diagnostic et de traitement.
     - Une agence gouvernementale a formulé une politique de logement sur la base de statistiques de recensement erronées, aboutissant à un malinvestissement dans les zones inappropriées.
-3. **Conclusion (20 secondes)**: L'éthique dans la gestion des données peut profondément affecter la confiance du public envers les institutions et les entreprises.
-    
+
+3. **Conclusion**: L'éthique dans la gestion des données peut profondément affecter la confiance du public envers les institutions et les entreprises.
 
 ### Enjeux Technologiques 
 
@@ -51,7 +49,7 @@
     - Le cas d'une entreprise de fabrication qui a eu du mal à traiter et à nettoyer les données en temps réel provenant de ses machines industrielles.
     - L'exemple d'une ville ayant installé des capteurs IoT pour surveiller la qualité de l'air mais qui n'a pas réussi à filtrer et valider les données, causant de fausses alertes.
 
-3. **Conclusion (15 secondes)**: Le manquement dans la gestion technique des données a des implications économiques et éthiques significatives, ce n'est pas simplement une question d'ingénierie.
+3. **Conclusion**: Le manquement dans la gestion technique des données a des implications économiques et éthiques significatives, ce n'est pas simplement une question d'ingénierie.
 
 ---
 ## 3. Analyse de l'Existant
