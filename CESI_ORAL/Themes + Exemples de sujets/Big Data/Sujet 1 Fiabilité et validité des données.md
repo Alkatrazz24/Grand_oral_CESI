@@ -33,7 +33,7 @@
 
 ### Enjeux Éthiques 
 
-1. **Introduction **: Cette section est orientée vers les implications éthiques de la fiabilité et de la validité des données.
+1. **Introduction**: Cette section est orientée vers les implications éthiques de la fiabilité et de la validité des données.
 
 2. **Responsabilité:**
     - Un hôpital a mal géré les dossiers médicaux de ses patients, menant à des erreurs de diagnostic et de traitement.
