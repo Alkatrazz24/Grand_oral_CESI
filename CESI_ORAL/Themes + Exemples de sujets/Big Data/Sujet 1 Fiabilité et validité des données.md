@@ -1,20 +1,20 @@
 # **Plan détaillé 
 
-## Introduction (3 minutes)
+## Introduction 
 
-### Phrase d'accroche (30 secondes)
+### Phrase d'accroche 
 
 "Selon une étude de l'IDC, le volume de données mondiales devrait atteindre 175 Zettaoctets d'ici 2025. Imaginez un instant les ramifications si même une petite fraction de ces données était erronée ou trompeuse." (source 1)
 
-### Contextualisation (1 minute)
+### Contextualisation 
 
 "Dans un monde où les données sont la monnaie de l'ère numérique, la fiabilité et la validité de ces données deviennent des enjeux cruciaux. Des décisions opérationnelles aux orientations stratégiques, de fausses données peuvent avoir un impact non seulement sur les résultats financiers, mais aussi sur la réputation et la confiance des parties prenantes."
 
-### Problématique (1 minute)
+### Problématique 
 
 "La question qui se pose donc est la suivante : Comment s'assurer que ces vastes volumes de données sont fiables et valides? Une donnée non fiable ou invalide peut entraîner une chaîne de décisions erronées, avec des conséquences potentiellement désastreuses sur plusieurs fronts."
 
-### Objectifs de la présentation (30 secondes)
+### Objectifs de la présentation
 
 "Cette présentation se concentrera sur les enjeux économiques, éthiques et technologiques liés à la fiabilité et à la validité des données. Nous aborderons les mécanismes, outils et meilleures pratiques pour assurer l'intégrité des données dans le contexte d'un monde hyperconnecté et axé sur les données."
 
@@ -124,7 +124,29 @@
     - **Proactivité vs Réactivité**: Mettre en évidence que la correction des erreurs de données après leur occurrence est souvent beaucoup plus coûteuse et risquée que la prévention.
     - **Appel à l'Action**: Encourager l'auditoire à adopter une approche proactive dans leur propre environnement professionnel. Suggérer de commencer par des étapes concrètes, telles que l'audit de l'état actuel de la qualité des données ou la mise en place d'un plan stratégique pour la gestion de la qualité des données.
 ## 6. Questions/Réponses
-- Anticiper les questions possibles, telles que "Comment équilibrer le coût du nettoyage des données avec les avantages potentiels ?" ou "Quels sont les défis spécifiques au Big Data par rapport à la qualité des données ?"
+
+### Anticiper les questions possibles
+
+1. **Comment équilibrer le coût du nettoyage des données avec les avantages potentiels ?**
+    
+    - **Préparation**: Être prêt à discuter des méthodes quantitatives et qualitatives pour évaluer le retour sur investissement (ROI) du nettoyage des données.
+    - **Réponse Possible**: Expliquer que le coût initial de l'investissement dans le nettoyage des données peut être élevé, mais que les erreurs de données peuvent entraîner des coûts beaucoup plus élevés à long terme, notamment en termes de mauvaises décisions et de perte de confiance.
+2. **Quels sont les défis spécifiques au Big Data par rapport à la qualité des données ?**
+    
+    - **Préparation**: Être capable de discuter des problèmes uniques posés par le volume, la variété et la vélocité du Big Data.
+    - **Réponse Possible**: Mentionner que le Big Data apporte des défis supplémentaires en matière de gestion de la qualité des données, notamment en raison de la grande variété de sources de données et du volume en constante augmentation. Cela rend les techniques de nettoyage de données traditionnelles souvent inadéquates.
+3. **Quels outils recommandez-vous pour la gestion de la qualité des données ?**
+    
+    - **Préparation**: Avoir une liste d'outils qui peuvent être utilisés pour différents aspects de la gestion de la qualité des données.
+    - **Réponse Possible**: Suggérer des outils spécifiques pour le nettoyage des données, la validation, et le suivi de la qualité des données, en fonction des besoins spécifiques de l'auditoire.
+4. **Comment intégrer une culture de la qualité des données au sein d'une organisation ?**
+    
+    - **Préparation**: Penser à des stratégies organisationnelles qui peuvent encourager une meilleure gestion des données.
+    - **Réponse Possible**: Parler de l'importance de la formation et de l'engagement du leadership dans la promotion d'une culture axée sur la qualité des données.
+5. **Y a-t-il des normes industrielles pour la qualité des données ?**
+    
+    - **Préparation**: Être au courant des normes ou des meilleures pratiques dans l'industrie spécifique à laquelle vous vous adressez.
+    - **Réponse Possible**: Mentionner s'il existe des normes spécifiques à l'industrie, ou sinon, discuter des meilleures pratiques généralement acceptées pour la gestion de la qualité des données.
 
 ---
 # Exemple + source si nécessaire (à rajouter)
