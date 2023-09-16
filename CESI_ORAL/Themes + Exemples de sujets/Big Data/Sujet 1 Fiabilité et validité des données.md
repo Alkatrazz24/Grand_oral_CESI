@@ -23,9 +23,9 @@
 
 ### Enjeux Économiques 
 
-1. **Introduction **: L'importance cruciale de la qualité des données est mise en lumière, indiquant que celle-ci a des implications économiques considérables pour les entreprises.
+1. **Introduction**: L'importance cruciale de la qualité des données est mise en lumière, indiquant que celle-ci a des implications économiques considérables pour les entreprises.
 
-2. **Exemples concrets **:
+2. **Exemples concrets**:
     - Une entreprise de vente en ligne ayant mal intégré les données de ses fournisseurs, aboutissant à des erreurs de stocks et finalement à des pertes de revenus et des clients mécontents.
     - Une compagnie aérienne qui, à cause d'une erreur dans les données météorologiques, a rerouté plusieurs vols, engendrant des coûts supplémentaires et des indemnisations.
 
