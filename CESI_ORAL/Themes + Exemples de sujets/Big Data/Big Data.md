@@ -29,7 +29,7 @@
 - **Data Cleaning**: Les méthodes et outils utilisés pour nettoyer les données.
 
 #### Pratiques Professionnelles et Expérience
-- Erreurs courantes ou anomalies rencontrées dans les ensembles de données de votre expérience professionnelle.
+- Erreurs courantes ou anomalies rencontrées pendant expérience pro.
 - Méthodes utilisées pour assurer la fiabilité et la validité.
 
 #### Exemples d'Autres Entreprises
